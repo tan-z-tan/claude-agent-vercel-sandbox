@@ -19,11 +19,13 @@
   },
   "homepage": "https://github.com/tan-z-tan/claude-agent-vercel-sandbox#readme",
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
     "@vercel/sandbox": "^1.3.2",
     "ms": "^2.1.3"
   },
   "devDependencies": {
     "@types/ms": "^2.1.0",
-    "@types/node": "^25.0.10"
+    "@types/node": "^25.0.10",
+    "typescript": "^5.9.3"
   }
 }
