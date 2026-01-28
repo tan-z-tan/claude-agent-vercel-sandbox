@@ -1,0 +1,29 @@
+{
+  "name": "claude-agent-vercel-sandbox",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Learn how to deploy Claude's Agent SDK in Vercel Sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tan-z-tan/claude-agent-vercel-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tan-z-tan/claude-agent-vercel-sandbox/issues"
+  },
+  "homepage": "https://github.com/tan-z-tan/claude-agent-vercel-sandbox#readme",
+  "dependencies": {
+    "@vercel/sandbox": "^1.3.2",
+    "ms": "^2.1.3"
+  },
+  "devDependencies": {
+    "@types/ms": "^2.1.0",
+    "@types/node": "^25.0.10"
+  }
+}
